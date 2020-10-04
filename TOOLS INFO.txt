@@ -1,0 +1,43 @@
+The NVS Raccoon project is a on going project of mine which i plan to upgrade regularly. The final outcome 
+being a large collection of python scrips that may be useful to operating systems such as Kali Linux and Parrot Security o.s.
+All scrips are written in python 2.7.0 opposed to python 3.9.0 to allow the script to run natively. And each script is separate alowing the script to run 
+with out needing to rely on another.All scripts are compatible with all versions of Kali Linux.
+
+
+script description.
+
+
+autocat4444.py
+This script automatically runs and configs the tool NCAT to listen to all traffic on port 4444
+
+autokismet.py
+This script automatically puts your devices wifi card into monitor mode and starts the tool KISMET
+
+automon.py
+This script automatically puts your devices wifi card into monitor mode.
+
+autoport.py
+This script automatically starts port forwarding
+
+ftpsniffer.py
+This script automatically runs and configs the tool NCAT to listen to all traffic on port 21
+
+jetscan.py
+This script is a very fast network scaner that allows you to scan all op rangers on the network you are connected to.
+
+sitesniff.py
+This script sniffs all traffic and prints the information
+
+tcpsniffer.py
+This script automatically runs and configs the tool NCAT to listen to all  TCP traffic
+
+udpsniffer.py
+This script automatically runs and configs the tool NCAT to listen to all  UDP traffic
+
+
+
+-MORE TO COME THIS IS JUST THE FIRST UPDATE-
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
